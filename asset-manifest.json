@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/ignite/static/js/main.76fb2d4e.js",
+    "main.js": "/ignite/static/js/main.44675125.js",
     "static/js/453.a306b138.chunk.js": "/ignite/static/js/453.a306b138.chunk.js",
     "static/media/steam.svg": "/ignite/static/media/steam.d7b8819f879421dc2f25a3474964687d.svg",
     "static/media/playstation.svg": "/ignite/static/media/playstation.18cc4b9ca49a92b00bb7958e88c5b9ad.svg",
@@ -10,10 +10,10 @@
     "index.html": "/ignite/index.html",
     "static/media/apple.svg": "/ignite/static/media/apple.5757c37e1a2b3d89e03deb9212a997e8.svg",
     "static/media/logo.svg": "/ignite/static/media/logo.9b6b8655566296b0edaa86ec3dbac3a0.svg",
-    "main.76fb2d4e.js.map": "/ignite/static/js/main.76fb2d4e.js.map",
+    "main.44675125.js.map": "/ignite/static/js/main.44675125.js.map",
     "453.a306b138.chunk.js.map": "/ignite/static/js/453.a306b138.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.76fb2d4e.js"
+    "static/js/main.44675125.js"
   ]
 }
